@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "system",
+		"sourceMap": true,
+		"removeComments": true,
+		"version": true
+		// "outDir":"js/"
+	},
+	"exclude": [
+		"node_modules"
+	],
+	"include": [
+		"ts/**/*",
+		"gulpfile.ts"
+	]
+}
